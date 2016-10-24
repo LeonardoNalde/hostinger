@@ -1,0 +1,23 @@
+h1{color:#062F7F;}
+h2{color:#062F7F;
+font-size: 32px; /*tamanho da fonte*/
+font-weight: bold;} /*espessura*/
+h3{color:#062F7F;}
+h4{color:#062F7F;}
+h5{color:#062F7F;}
+h6{color:#062F7F;}
+p{color:#DF8702;
+text-align: justify;} /*alinhamento*/
+/*h1 + p {color:#11F62C;}*/
+a{text-decoration: none;
+color:#DF8702;}
+a:hover{font-size: 26px; /*ao passar o mouse sobre o texto*/
+color: #062F7F;}
+span{/*background-color:#C9C9C9;*/
+color:#DF8702;}
+
+/* Declaração de uma classe .nome */
+.destaque{background-color:#C9C9C9;}
+
+/* Declaração de um id #nome */
+#subtitulos{font-size: 28px;}
